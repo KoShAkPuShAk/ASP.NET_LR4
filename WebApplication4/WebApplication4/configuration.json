@@ -1,0 +1,24 @@
+{
+  "library": {
+    "books": [
+      {
+        "title": "The Little Prince",
+        "author": "Antoine de Saint-Exupéry\t"
+      },
+      {
+        "title": "Harry Potter and the Philosopher's Stone",
+        "author": "J. K. Rowling"
+      }
+    ],
+    "profiles": [
+      {
+        "name": "Illya",
+        "surname": "Horshkolepov"
+      },
+      {
+        "name": "Misha",
+        "surname": "Globanskiy"
+      }
+    ]
+  }
+}
